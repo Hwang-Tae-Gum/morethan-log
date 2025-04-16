@@ -9,7 +9,6 @@ const CONFIG = {
     linkedin: "",
     github: "Hwang-Tae-Gum",
     instagram: "",
-    QnA: "https://duge.space/Hwang-TaklaH",
   },
   projects: [
   {
