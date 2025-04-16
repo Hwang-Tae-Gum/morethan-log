@@ -11,11 +11,15 @@ const CONFIG = {
     instagram: "",
   },
   projects: [
-    {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
-    },
-  ],
+  {
+    name: `morethan-log`,
+    href: "https://github.com/morethanmin/morethan-log",
+  },
+  {
+    name: `QnA`,
+    href: "https://duge.space/Hwang-TaklaH/qna" // QnA 노션 페이지 주소나 별도 정리한 링크
+  },
+],
   // blog setting (required)
   blog: {
     title: "Gum-devlog",
